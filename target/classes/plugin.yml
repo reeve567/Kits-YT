@@ -1,0 +1,7 @@
+name: Kits
+version: RELEASE
+main: me.reeve.kits.Kits
+author: Xwy
+commands:
+  kit:
+    aliases: [kits,k]
